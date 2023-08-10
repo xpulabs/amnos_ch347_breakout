@@ -1,1 +1,3 @@
-# amnos_ch347_breakout
+# amnos_ch347_breakouti
+
+## hardware
